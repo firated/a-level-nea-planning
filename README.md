@@ -31,3 +31,6 @@ Section 1: Definition, Investigation and Analysis
                                                         |                         |
                                                        Draw            Game Over (Declare winner)
                                                                           
+
+- Potential user-base
+    End users of this program could be open to anyone. Since chess is such a widely recognised and played game, it would mainly target those who play chess. By clarifying my playerbase, it is important to gather the information from those who play to game, for suggestions of features to further enchance the program.
