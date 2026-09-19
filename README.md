@@ -18,7 +18,15 @@ Section 1: Definition, Investigation and Analysis
                                           setup chess board and pieces
                                                         |
                                                         |
-                                     -------Player starts (white first)
-                                     |                   |
-                                     |     No            |
-                                      ---------- is move legal?
+                               ---------------Player turn (white first)
+                               |     |                  |
+                               |     |     No           |          Yes
+                               |      ---------- is move legal? ---------- Move the piece
+                               |                                                  |
+                               |        No                           No           |
+                               -------------------- Stalemate?  ------------ Checkmate?
+                                                        |                         |
+                                                        | Yes                     | Yes
+                                                        |                         |
+                                                       Draw            Game Over (Declare winner)
+                                                                          
