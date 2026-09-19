@@ -1,7 +1,7 @@
 # a-level-nea-planning
 ## Planning 
 // Creating an AI chessbot
-Section 1: Definition, Investigation and Analysis
+// Section 1: Definition, Investigation and Analysis
 - Problem Definition:
   For my NEA I will be coding an AI bot based on the most popular board game in the world, as well as being played for centuries, called 'Chess'. The game involves a total of 16 pieces, including 8 pawns, 2 rooks, 2 bishops, 2 knights, 1 queen and a king. The main object for a player is to completely surround the king with each pieces, leaving no path for the king to move.
 
