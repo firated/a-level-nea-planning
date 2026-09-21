@@ -42,6 +42,11 @@ Section 1: Definition, Investigation and Analysis
         - En Passant: The pawn can move 2 squares forward if it has not been moved yet.
         - Castling: If neither the rook or king has been moved, the king can move 2 spaces towards the rook. The rook would jump over the king.
         - Promotion: If the pawn of a player reaches the other end of an opposing player's board, it is able to be changed into any pieces.
+
+  - AI/Bot Algorithm
+      - Determining the search algorithm
+   
+        
     
 - Basic chess System
 
