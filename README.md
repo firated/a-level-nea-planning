@@ -48,7 +48,11 @@ Section 1: Definition, Investigation and Analysis
    
         There are various algorithm that can be used to code the AI model, such as a Deep Convolutional Neural Networks (Deep learning), which involves the usage of large datasets to train the algorithm to notice specific patterns and base its movements on millions of data from real-life users. Although this algoritm offers limitless possibilities in terms of Artificial Intelligence, I've decided to opt for the traditional AI algorithm called 'Minmax and Alpha-beta pruning'. This algorithm is the most appropriate for a project of this scale.
 
-          - What is alpha-beta pruning?
+      - What is Minmax and Alpha-beta pruning?
+
+        Minmax is a search algorithm that evaluates every possible option and computes the best possible result, which is perfect for chess. By using this algorithm, it allows for the creation of an intelligent bot that can make moves according to the response of an opponent, where it will then calculate the possible moves, and think ahead into what the opponent can do next.
+        Alpha-beta pruning is an algorithm optimisation technique, specifically for the Minmax algorithm. It optimises by removing unnecessary calculations… 
+        
     
 - Basic chess System
 
