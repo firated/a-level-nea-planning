@@ -3,15 +3,15 @@
 // Creating an AI chessbot
 
 Section 1: Definition, Investigation and Analysis
-- Problem Definition:
+- 1.1 Problem Definition:
   
-  For my NEA I will be coding an AI bot based on the most popular board game in the world, as well as being played for centuries, called 'Chess'. The game involves a total of 16 pieces, including 8 pawns, 2 rooks, 2 bishops, 2 knights, 1 queen and a king. The main object for a player is to completely surround the king with each pieces, leaving no path for the king to move.
+  For my NEA I will be coding an AI bot based on the most popular board game in the world, as well as being played for centuries, called 'Chess'. The game involves a total of 16 pieces, including 8 pawns, 2 rooks, 2 bishops, 2 knights, 1 queen and a king. The main object for a player is to completely surround the king with pieces, where the king has no more legal moves and no way to attack the oppositions piece, leaving no path for the king to move.
 
   (Screenshot of a chessboard)
 
   The main objective of this project is to create an AI chess bot that human players are able to compete against. The AI bot will be capable of playing legal moves and evaluating the best moves/position to play. The program will have difficulty options, where users with varying experiences can play at their level.
 
-- Research and Investigation
+- 1.2 Research and Investigation
     
   - How chess is played
     - Movement system:
