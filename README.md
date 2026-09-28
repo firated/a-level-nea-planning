@@ -51,6 +51,8 @@ Section 1: Definition, Investigation and Analysis
       - What is Minmax and Alpha-beta pruning?
 
         Minmax is a search algorithm that evaluates every possible option and computes the best possible result, which is perfect for chess. By using this algorithm, it allows for the creation of an intelligent bot that can make moves according to the response of an opponent, where it will then calculate the possible moves, and think ahead into what the opponent can do next.
+   
+        
         Alpha-beta pruning is an algorithm optimisation technique, specifically for the Minmax algorithm. It optimises by removing unnecessary calculations… 
         
     
