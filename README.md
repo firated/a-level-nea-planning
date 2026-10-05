@@ -13,10 +13,9 @@ Section 1: Definition, Investigation and Analysis
 
 - 1.2 Research and Investigation
     
-  - How chess is played
+  - How chess is played:
     - Movement system:
-      Chess involves multiple rules for each pieces, as well as how the game could end. In terms of pieces, each one of the them has different sets   of movements:
-    
+      Chess involves multiple rules for each pieces, as well as how the game could end. In terms of pieces, each one of the them has different sets of movements:
       - Pawn: able to move by 2 blocks from its starting point (En Passant) and afterwards only one block each move.
       - Rook: Move in straight lines front, back, left and right.
       - Bishops: Move diagnally.
@@ -75,7 +74,16 @@ Section 1: Definition, Investigation and Analysis
                                                         | Yes                     | Yes
                                                         |                         |
                                                        Draw            Game Over (Declare winner)
+
+
+    An important factor that makes chess functional is the game itself. Above is a simple system I made to clarify how the game functions.
+    The challenge within this section would mainly be to make a functional board with all the other rules associated with the official game. 
+
   
 
-  - Potential user-base
-      End users of this program could be open to anyone. Since chess is such a widely recognised and played game, it would mainly target those who     play chess. By clarifying my playerbase, it is important to gather the information from those who play to game, for suggestions of features to       further enchance the program.
+  - User Identification
+      End users of this program could be open to anyone. Since chess is such a widely recognised and played game, it would mainly target those who play chess.
+
+  
+    - Questionaire
+    As a way to gather information for the development of this software, I will be surveying .. people, who has plenty, some and little to no experience with chess to see their suggestions on things they’d like to see in this software.
