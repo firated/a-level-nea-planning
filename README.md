@@ -79,7 +79,6 @@ Section 1: Definition, Investigation and Analysis
     An important factor that makes chess functional is the game itself. Above is a simple system I made to clarify how the game functions.
     The challenge within this section would mainly be to make a functional board with all the other rules associated with the official game. 
 
-  
 
   - User Identification
     
@@ -154,4 +153,9 @@ Section 1: Definition, Investigation and Analysis
 13. Are there any other features you’d suggest?
     - Free Response
    
+- Responder background and Preferences
+   - How often do you play chess?
+ 
+     Most 
+     
     
