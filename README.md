@@ -189,4 +189,7 @@ Section 1: Definition, Investigation and Analysis
     There is a suggestion on animating pieces, different game times (How long each players have to make moves before losing to time), mistake analysis.
     I will try to implement these features as well.
 
+- Designing the User Interface
+  
+
     
