@@ -83,9 +83,33 @@ Section 1: Definition, Investigation and Analysis
 
   - User Identification
     
-      End users of this program could be open to anyone. Since chess is such a widely recognised and played game, it would mainly target those who play chess.
+      End users of this program could be open to anyone. Since chess is such a widely recognised and played game, though it would mainly target those who play chess to use this software to improve their gameplay.
 
   
     - Questionnaire
       
     As a way to gather information for the development of this software, I will be surveying .. people, who has plenty, some and little to no experience with chess to see their suggestions on things they’d like to see in this software.
+    I have surveyed 10 people regarding features, quality of life improvements and suggestions to be implemented into this software.
+
+1. How often do you play chess?
+   - Never
+   - Occasionally
+   - Sometimes
+   - Often
+   - Always
+    
+2. What do you think your level of chess is ? (if you have played)
+   - Beginner
+   - Intermediate
+   - Advanced
+   - Expert
+    
+3. What’s your preferred way of playing chess? (Software/Physical)
+   - Free Response
+    
+4. If you play software, where do you play?
+   - Free Response
+  
+5.
+   
+    
