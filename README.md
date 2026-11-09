@@ -153,9 +153,40 @@ Section 1: Definition, Investigation and Analysis
 13. Are there any other features you’d suggest?
     - Free Response
    
-- Responder background and Preferences
+- Responder Background and Preferences
    - How often do you play chess?
  
-     Most 
+     Most of the surveyed individuals play chess once in a while, and there are some that are slightly more avid players.
+
+  - What do you think your level of chess is?
+
+    8 of 10 individuals are at intermediate level of playing chess, so they have some experiences, while the other 2 are beginners (have played, though are not tactically knowledgeable.
+
+  - What’s your preferred way of playing chess? and If software, then where do you play?
+
+    Most play through sites/software, specifically using Chess.com, so I will be mainly using Chess.com as inspiration for some features. Other responders play using a physical chess board.
+
+- Preferred and Suggested Features
+    - What kind of difficulty option is suitable?
+      
+      Majority prefers simple optional difficulties, such as Easy, Medium and Hard. The second popular option is a combination of all the options within the question.
+      Therefore I could implement, combinations of other difficulties, while implementing the optional difficulty as the main options.
+
+    - What would you expect from an easy AI difficulties?
+
+      Responders prefer easy chess bots to be reasonable with their moves, although they will miss some tactical moves, which accurately mimics how beginner-intermediate chess players thinks.
+
+   - How fast do you expect a Chess Bot to make each move?
      
+      Most responders prefer a 1-3 second pause between each move, while it is a draw between varying time movements and more than 3 seconds. So I will mainly implement 1-3 seconds between each movement, and consider another possible movement pause.
+
+  - Would you like a game analysis feature?
+    
+      All the responses agree to adding this as a feature, so that the software serves a purpose to show what mistakes were made, or how good each game was played. Most also find this feature to be the most useful part of a chess bot software.
+
+  - Are there any other features you’d suggest?
+
+    There is a suggestion on animating pieces, different game times (How long each players have to make moves before losing to time), mistake analysis.
+    I will try to implement these features as well.
+
     
