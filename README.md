@@ -110,6 +110,48 @@ Section 1: Definition, Investigation and Analysis
 4. If you play software, where do you play?
    - Free Response
   
-5.
+5. What kind of methods would you want for the difficulty?
+   - Optional difficulty (Easy, Medium, Hard)
+   - Tactics-based difficulty (Aggressive, Defensive)
+   - Difficulty Slider
+   - Adaptive difficulty
+   - Combination of each
+  
+6. What would you expect from an easy AI difficulty?
+   - Simple/Random moves
+   - Reasonable moves, may miss tactical
+   - Other: Free response
+  
+7. How fast do you expect an AI to make a move?
+   - Less than a second
+   - 1-3 seconds
+   - 3-10 seconds
+   - Varying time to move based on difficulty
+  
+8. Would you like a game analysis feature? (Enable stats of each game to be shown)
+   - Yes
+   - No
+   - Maybe
+
+9. What kind of UI would you suggest?
+    - Minimalistic (Chess board and timer)
+    - Feature heavy (Stats and other features)
+    - Other: Free response
+  
+10. Would you like to save your chess games (potential option of replaying moments of your game)
+    - Yes
+    - No
+    - Maybe
+   
+11. Would a beginner friendly option be useful (For teaching basis of game)
+    - Yes
+    - No
+    - Maybe
+
+12. What would be the most useful feature of Chess Bot software?
+    - Free Response
+
+13. Are there any other features you’d suggest?
+    - Free Response
    
     
