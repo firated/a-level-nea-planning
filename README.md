@@ -225,4 +225,25 @@ Section 1: Definition, Investigation and Analysis
 
     Majority of responses agreed to a minimalistic user interface. I will implement a UI with only necessary UI elements of a normal chess game, such as a chess board, timer, buttons for forfeit and draw, and potentially a movement tracker. Other statistic related features will be separated into another menu.
 
-    
+                   +— - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -+ 
+                   | Chessbot                                                         [settings] |
+                   + - - - - - - -  - - - - - - - - - - - - - - - - - - — - — - - - - - - - - - -+    
+                   |          H   G   F   E   D   C   B   A 
+                   |         +- - - - - - - - - - - - - - -+ 
+                   |      8 | r | n | b | q | k | b | n | r | 1
+                   |         +- - - - - - - - - - - - - - -+
+                   |      7 | p | p | p | p | p | p | p | p | 2
+                   |         +- - - - - - - - - - - - - - -+
+                   |      6 |   |   |   |   |   |   |   |   | 3
+                   |         +- - - - - - - - - - - - - - -+
+                   |      5 |   |   |   |   |   |   |   |   | 4
+                   |         +- - - - - - - - - - - - - - -+
+                   |      4 |   |   |   |   |   |   |   |   | 5
+                   |         +- - - - - - - - - - - - - - -+
+                   |      3 |   |   |   |   |   |   |   |   | 6
+                   |         +- - - - - - - - - - - - - - -+
+                   |      2 | p | p | p | p | p | p | p | p | 7
+                   |         +- - - - - - - - - - - - - - -+
+                   |      1 | r | n | b | q | k | b | n | r | 8
+                   |         +- - - - - - - - - - - - - - -+
+                   |          H   G   F   E   D   C   B   A
