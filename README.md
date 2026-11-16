@@ -8,43 +8,26 @@ Section 1: Definition, Investigation and Analysis
   For my NEA I will be coding an AI bot based on the most popular board game in the world, as well as being played for centuries, called 'Chess'. The game involves a total of 16 pieces, including 8 pawns, 2 rooks, 2 bishops, 2 knights, 1 queen and a king. The main object for a player is to completely surround the king with pieces, where the king has no more legal moves and no way to attack the oppositions piece, leaving no path for the king to move.
 
    - Representation of a chessboard in ASCII:
-      H   G   F   E   D   C   B   A
      
-    +- - - - - - - - - - - - - - - -+
-  
-  8 | r | n | b | q | k | b | n | r | 1
-  
-    +- - - - - - - - - - - - - - - -+
-  
-  7 | p | p | p | p | p | p | p | p | 2
-  
-    +- - - - - - - - - - - - - - - -+
-  
-  6 | _ | _ | _ | _ | _ | _ | _ | _ | 3
-  
-    +- - - - - - - - - - - - - - - -+
-  
-  5 | _ | _ | _ | _ | _ | _ | _ | _ | 4
-  
-    +- - - - - - - - - - - - - - - -+
-  
-  4 | _ | _ | _ | _ | _ | _ | _ | _ | 5
-  
-    +- - - - - - - - - - - - - - - -+
-  
-  3 | _ | _ | _ | _ | _ | _ | _ | _ | 6
-  
-    +- - - - - - - - - - - - - - - -+
-  
-  2 | p | p | p | p | p | p | p | p | 7
-  
-    +- - - - - - - - - - - - - - - -+
-  
-  1 | r | n | b | q | k | b | n | r | 8
-  
-    +- - - - - - - - - - - - - - - -+
-  
-      H   G   F   E   D   C   B   A
+                             H   G   F   E   D   C   B   A 
+                            +- - - - - - - - - - - - - - -+ 
+                         8 | r | n | b | q | k | b | n | r | 1
+                            +- - - - - - - - - - - - - - -+
+                         7 | p | p | p | p | p | p | p | p | 2
+                            +- - - - - - - - - - - - - - -+
+                         6 |   |   |   |   |   |   |   |   | 3
+                            +- - - - - - - - - - - - - - -+
+                         5 |   |   |   |   |   |   |   |   | 4
+                            +- - - - - - - - - - - - - - -+
+                         4 |   |   |   |   |   |   |   |   | 5
+                            +- - - - - - - - - - - - - - -+
+                         3 |   |   |   |   |   |   |   |   | 6
+                            +- - - - - - - - - - - - - - -+
+                         2 | p | p | p | p | p | p | p | p | 7
+                            +- - - - - - - - - - - - - - -+
+                         1 | r | n | b | q | k | b | n | r | 8
+                            +- - - - - - - - - - - - - - -+
+                             H   G   F   E   D   C   B   A
 
   The main objective of this project is to create an AI chess bot that human players are able to compete against. The AI bot will be capable of playing legal moves and evaluating the best moves/position to play. The program will have difficulty options, where users with varying experiences can play at their level.
 
