@@ -9,23 +9,41 @@ Section 1: Definition, Investigation and Analysis
 
    - Representation of a chessboard in ASCII:
       H   G   F   E   D   C   B   A
+     
     +- - - - - - - - - - - - - - - -+
+  
   8 | r | n | b | q | k | b | n | r | 1
+  
     +- - - - - - - - - - - - - - - -+
+  
   7 | p | p | p | p | p | p | p | p | 2
+  
     +- - - - - - - - - - - - - - - -+
+  
   6 | _ | _ | _ | _ | _ | _ | _ | _ | 3
+  
     +- - - - - - - - - - - - - - - -+
+  
   5 | _ | _ | _ | _ | _ | _ | _ | _ | 4
+  
     +- - - - - - - - - - - - - - - -+
+  
   4 | _ | _ | _ | _ | _ | _ | _ | _ | 5
+  
     +- - - - - - - - - - - - - - - -+
+  
   3 | _ | _ | _ | _ | _ | _ | _ | _ | 6
+  
     +- - - - - - - - - - - - - - - -+
+  
   2 | p | p | p | p | p | p | p | p | 7
+  
     +- - - - - - - - - - - - - - - -+
+  
   1 | r | n | b | q | k | b | n | r | 8
+  
     +- - - - - - - - - - - - - - - -+
+  
       H   G   F   E   D   C   B   A
 
   The main objective of this project is to create an AI chess bot that human players are able to compete against. The AI bot will be capable of playing legal moves and evaluating the best moves/position to play. The program will have difficulty options, where users with varying experiences can play at their level.
