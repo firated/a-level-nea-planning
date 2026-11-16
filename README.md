@@ -180,6 +180,16 @@ Section 1: Definition, Investigation and Analysis
      
       Most responders prefer a 1-3 second pause between each move, while it is a draw between varying time movements and more than 3 seconds. So I will mainly implement 1-3 seconds between each movement, and consider another possible movement pause.
 
+  - Would a beginner friendly option be useful?
+
+      Majority, agreed that this would be a good feature to add. This feature serves the purpose for people to learn how to play chess. Beginner friendly option could create a scenario for people with no experience chess to be able to understand chess.
+
+  - Would you like to save your chess games (potential option of replaying moments of your game)
+
+      Responders expressed strong desire to implementing this feature. It serves a purpose to allow users to look back into their games and see what they’ve done well in and what blunders they made.
+
+      This feature would be a challenge to implement as it requires tracking back into inputs, and it will require a database to save everything in the game.
+
   - Would you like a game analysis feature?
     
       All the responses agree to adding this as a feature, so that the software serves a purpose to show what mistakes were made, or how good each game was played. Most also find this feature to be the most useful part of a chess bot software.
@@ -187,9 +197,12 @@ Section 1: Definition, Investigation and Analysis
   - Are there any other features you’d suggest?
 
     There is a suggestion on animating pieces, different game times (How long each players have to make moves before losing to time), mistake analysis.
-    I will try to implement these features as well.
+    These suggestions are great quality of life improvements that I could add to the software.
 
 - Designing the User Interface
-  
+
+  - What kind of UI would you suggest? 
+
+    Majority of responses agreed to a minimalistic user interface. I will implement a UI with only necessary UI elements of a normal chess game, such as a chess board, timer, buttons for forfeit and draw, and potentially a movement tracker. Other statistic related features will be separated into another menu.
 
     
