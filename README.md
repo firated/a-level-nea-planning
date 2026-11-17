@@ -224,7 +224,37 @@ Section 1: Definition, Investigation and Analysis
   - What kind of UI would you suggest? 
 
     Majority of responses agreed to a minimalistic user interface. I will implement a UI with only necessary UI elements of a normal chess game, such as a chess board, timer, buttons for forfeit and draw, and potentially a movement tracker. Other statistic related features will be separated into another menu.
+    - Main Menu:
 
+                   +- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -+
+                   | Chessbot
+                   + - - - - - - - - - - — - - - - - - - - - - - - - - - - - - - - - - - - - - - +
+                   |
+                   |
+                   |
+                   |
+                   |
+                   |
+                   |
+                   |
+                   |
+                   |
+                   |
+                   |
+                   |
+                   |
+                   |
+                   |
+                   |
+                   |
+                   |
+                   |
+                   +- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -+
+
+
+    - In-game menu:
+   
+      
                    +— - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -+ 
                    | Chessbot                                                         [settings] |
                    + - - - - - - -  - - - - - - - - - - - - - - - - - - — - — - - - - - - - - - -+    
@@ -249,3 +279,4 @@ Section 1: Definition, Investigation and Analysis
                    |          H   G   F   E   D   C   B   A          +- - - - - - - - - - - - -+ |
                    |                                                                             |
                    +- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - —+
+
