@@ -251,8 +251,36 @@ Section 1: Definition, Investigation and Analysis
                    |                                                                             |
                    +- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -+
 
+    - Pre-game selections
 
-    - In-game menu:
+
+
+                     +- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -+
+                   | Chessbot                                                                    |
+                   + - - - - - - - - - - — - - - - - - - - - - - - - - - - - - - - - - - - - - - +
+                   |                                                                             |  
+                   |                                                                             |
+                   |                                                                             |
+                   |                                                                             |
+                   |                                                                             |
+                   |       Select Sides:                                                         |
+                   |       [ White ]      [ Black ]     [ Random ]                               |
+                   |                                                                             |
+                   |       Bot Difficulty:                                                       |
+                   |       [ Easy  ]      [ Medium ]    [  Hard  ]                               |
+                   |                                                                             |
+                   |       Time Control: (approx time 1 min - 10 min)                            |
+                   |       |————O———————————————————————————————-|                               |
+                   |       Slider                                                                | 
+                   |                                                                             |
+                   |                                                                             |
+                   |                                                                             |
+                   |                                                                             | 
+                   |                                                                             |
+                   |                                                                             |
+                   +- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -+
+
+    - In-game UI:
    
       
                    +— - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -+ 
