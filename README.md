@@ -52,13 +52,13 @@ Section 1: Definition, Investigation and Analysis
     - Legal Moves:
       These are moves in which players must follow:
         - White moves first: White starts first every game, and one piece is played each turn.
-        - No self-checks: If a player's king is in check, you must either play a piece to block the check, or you cannot move the piece away from                              the positon if it endangers the king.
+        - No self-checks: If a player's king is in check, you must either play a piece to block the check, or you cannot move the piece away from the position if it endangers the king.
         - Movement: Each piece can either take the opponent's piece or move into a vacant space.
         - Jumping: No piece can jump over each other, except the knight and castling (special move).
   
     - Special Moves:
       In some circumstances, special moves can be played:
-        - En Passant: The pawn can move 2 squares forward if it has not been moved yet.
+        - En Passant: The pawn can capture an enemy’s pawn that’s just move 2 squares forward from its starting position, and lands right next to our own pawn.
         - Castling: If neither the rook or king has been moved, the king can move 2 spaces towards the rook. The rook would jump over the king.
         - Promotion: If the pawn of a player reaches the other end of an opposing player's board, it is able to be changed into any pieces.
 
@@ -328,7 +328,7 @@ Section 1: Definition, Investigation and Analysis
                    |   RECENT MATCHES                                                  |
                    |   23/11/2026  |  White  |  Medium  |  Win (Checkmate)   |  32 mv  |
                    |   21/11/2026  |  Black  |  Hard    |  Loss (Checkmate)  |  45 mv  |
-                   |   19/11/2026  |  White  |  Easy    |  Win (Forfeit)     |  18 mv  |
+                   |   19/11/2026  |  White  |  Easy    |  Loss (Forfeit)    |  18 mv  |
                    |                                                                   |
                    |                                                   [ Reset Stats ] |
                    +-------------------------------------------------------------------+
